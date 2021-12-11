@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"*******City University**********"<<endl;
+	cout<<"*******Major Assignment*********"<<endl;
+	cout<<"*******3rd Semester**************"<<endl;
+	cout<<"ID: 11626"<<endl;
+	cout<<"Name : Savaiz Wajid"<<endl;
+	cout<<"Section: D"<<endl;
+	cout<<"Subject: Professional Prctice"<<endl;
+	cout<<"Teacher: Sir Iftikhar Alam"<<endl;
+	cout<<"Q. Print a simple Hello World program"<<endl;
+	cout<<"\t  Hello World   \t"<<endl;
+	
+	return 0;
+}
